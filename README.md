@@ -1,7 +1,5 @@
 # Pre-work - tip calculator application for iOS
 
-**Name of your app** is a tip calculator application for iOS.
-
 Submitted by: Che Chao Hsu
 
 Time spent: **X** hours spent in total
